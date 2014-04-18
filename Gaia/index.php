@@ -25,12 +25,12 @@ include 'include/header.php'
         <div class="col-md-3">
           <h2>Configure Machine</h2>
           <p>Configure this machine to run Gaia</p>
-          <p><a class="btn btn-default" href="#" role="button"><i class="fa fa-power-off fa-rotate-90"></i> et it &raquo;</a></p>
+          <p><a class="btn btn-default" href="configure_machine.php" role="button"><i class="fa fa-power-off fa-rotate-90"></i> et it &raquo;</a></p>
         </div>
         <div class="col-md-3">
-          <h2>Create Account</h2>
-          <p>Create an account on the Gaian Network.</p>
-          <p><a class="btn btn-default" href="createaccount.php" role="button"><i class="fa fa-power-off fa-rotate-90"></i> et it &raquo;</a></p>
+          <h2>Configure User Account</h2>
+          <p>Configure a user account for use on the Gaian Network.</p>
+          <p><a class="btn btn-default" href="configure_account.php" role="button"><i class="fa fa-power-off fa-rotate-90"></i> et it &raquo;</a></p>
         </div>
         <div class="col-md-3">
           <h2>Visit Us Online</h2>
