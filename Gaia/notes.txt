@@ -1,0 +1,12 @@
+Project Notes
+
+1. Extend nav collapse point to go beyond tablet to computer monitor: http://stackoverflow.com/questions/18192082/bootstrap-3-navbar-collapse
+
+2. Database Architecture:
+    1. Modules (html/php modules that display content and execute code to connect to the correct content upon clicking a link)
+        a. User Contacts
+        b. Group Contacts
+        c. Machine List
+        d. 
+        
+    2. 

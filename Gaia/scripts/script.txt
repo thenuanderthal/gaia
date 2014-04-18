@@ -1,0 +1,25 @@
+List of needed php scripts
+
+Connect to remote database
+Send information
+Retrieve information
+Basic Variables
+serve information to the browser
+
+header
+footer
+
+login_do
+Register_do
+Comment_do
+vote_do
+add_friend_do
+join_group_do
+create_event_do
+upload_content_do
+edit_my_profile_do
+
+notify all seeders with new content
+
+notify all leechers of new content
+
